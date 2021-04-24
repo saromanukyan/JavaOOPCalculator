@@ -5,7 +5,6 @@ import java.text.DecimalFormatSymbols;
 
 public class Calculator {
     Operation operation;
-    String string;
 
     public Calculator(double preservedOperand, double currentOperand, String operator) {
         operation = OperationFactory.getOperation(operator);
