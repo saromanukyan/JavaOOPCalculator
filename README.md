@@ -1,6 +1,6 @@
 # JavaOOPCalculator
 
-Java Console Calculator with unary, binary functions and special operations. Factory Pattern allows any developer to add their own arithmetic operations as objects, without affecting the main code. This Project is platform for my future Android Calculator application.
+Java Console Calculator with unary, binary operations and special functions. Factory Pattern allows any developer to add their own arithmetic operations as objects, without affecting the main code. This Project is platform for my future Android Calculator application.
 <br>
 <p align="center">
 <img src="assets/futureCalc.png" alt="future Calculator"></img>
